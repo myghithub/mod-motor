@@ -1,5 +1,5 @@
 {
-   "pc": "com.kalonghideung.modbussidmotor",
+   "pc": "com.sudagaranyar.modbussidmotor",
    "kang_zayvius": [
       {
         "id": "1",
@@ -127,6 +127,46 @@
         "link_file": "https://archive.org/download/mod-yamaha-aerox-155-cc-v-1-bisa-wheelie-bussid-free-by-azumods/MOD%20YAMAHA%20AEROX%20155CC%20V1%20BISA%20WHEELIE%20BUSSID%20FREE%20BY%20AZUMODS.zip",
         "format_file":"zip",
         "images": "https://i.ytimg.com/vi/2hghHRzyLag/maxresdefault.jpg"
+      },
+      {
+        "id": "15",
+        "tittle": "MOD MOTOR BEAT RACING",
+        "date": "2021-01-04",
+        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper_202109/MOD-BUSSID_HONDA_BEAT_RACING_BY_AZUMODS_BASSAMAZUPER.zip",
+        "format_file":"zip",
+        "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OCr3ijp_8UHUlc8odRogol76VwlMiYw_9Q&usqp=CAU"
+      },
+      {
+        "id": "15",
+        "tittle": "MOD MOTOR SATRIA FU",
+        "date": "2021-01-04",
+        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper_202109/MOD%20SATRIA%20FU%20BUSSID%20FREE%20BY%20AZUMODS.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/elYUNvfBTc8/maxresdefault.jpg"
+      },
+      {
+        "id": "15",
+        "tittle": "MOD MOTOR MIO DRAG 200CC",
+        "date": "2021-01-04",
+        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper_202109/MOD%20MIO%20DRAG%20200CC%20BUSSID%20BY%20AZUMODS.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/jSLq0Ck4KzA/maxresdefault.jpg"
+      },
+      {
+        "id": "15",
+        "tittle": "MOD MOTOR HARLEY",
+        "date": "2021-01-04",
+        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper_202109/Mod%20Bussid%20motor%20harley.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-z8P1CjCMrx0/X2WiJ8VObII/AAAAAAAAAsw/ysPykggfpJYUaXDg8SPqYy2xySBMKD1rgCLcBGAsYHQ/w250-h170-c/IMG_20200919_130716-picsay.png"
+      },
+      {
+        "id": "15",
+        "tittle": "Mod Ninja Drag",
+        "date": "2021-09-27",
+        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper_202109/ninja%20drag.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/dDeotz6G7Kg/maxresdefault.jpg"
       }
    ]
 }
