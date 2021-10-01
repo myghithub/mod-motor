@@ -1,172 +1,172 @@
 {
-   "pc": "com.sudagaranyar.modbussidmotor",
-   "kang_zayvius": [
-      {
-        "id": "1",
-        "tittle": "RX King",
-        "date": "2021-09-27",
-        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper-www.raina.id/RX%20KING%20raina.id.zip",
+  "pc": "com.sudagaranyar.modbussidmotor",
+  "kang_zayvius": [
+     {
+       "id": "1",
+       "tittle": "RX King",
+       "date": "2021-10-5",
+       "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper-www.raina.id/RX%20KING%20raina.id.zip",
+       "format_file":"zip",
+       "images": "https://1.bp.blogspot.com/-h4QOc4eEpv4/X8LWe_DhsQI/AAAAAAAAAeU/HOyM4bsi-JwFWxnZABJHLxjmQeY7nOmxgCLcBGAsYHQ/s320/6.jpg"
+     },
+     {
+        "id": "2",
+        "tittle": "Motor Viar",
+        "date": "2021-10-5",
+        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper-www.raina.id/MOD%20BUSSID%20Motor%20Viar%20%28raina.id%29.zip",
         "format_file":"zip",
-        "images": "https://1.bp.blogspot.com/-h4QOc4eEpv4/X8LWe_DhsQI/AAAAAAAAAeU/HOyM4bsi-JwFWxnZABJHLxjmQeY7nOmxgCLcBGAsYHQ/s320/6.jpg"
+        "images": "https://1.bp.blogspot.com/-55mzzUEj7zw/X8LV8lTyKzI/AAAAAAAAAeA/1klbVXwUkkE6k90tPrNEQYRo1lf9bcLoACLcBGAsYHQ/s320/3.jpg"
       },
       {
-         "id": "2",
-         "tittle": "Motor Viar",
-         "date": "2021-09-27",
-         "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper-www.raina.id/MOD%20BUSSID%20Motor%20Viar%20%28raina.id%29.zip",
-         "format_file":"zip",
-         "images": "https://1.bp.blogspot.com/-55mzzUEj7zw/X8LV8lTyKzI/AAAAAAAAAeA/1klbVXwUkkE6k90tPrNEQYRo1lf9bcLoACLcBGAsYHQ/s320/3.jpg"
-       },
-       {
-         "id": "3",
-         "tittle": "KTM Duke 150",
-         "date": "2021-09-27",
-         "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper-www.raina.id/MOD%20BUSSID%20Motor%20KTM%20DUKE%20150%20%28raina.id%29.zip",
-         "format_file":"zip",
-         "images": "https://1.bp.blogspot.com/-rzf9ppsD_Lc/X8LWVQlG5WI/AAAAAAAAAeM/SXjT7Dbv-CAsLLrf92EaX4v9aBkZ9HzNQCLcBGAsYHQ/s320/5.jpg"
-       },
-       {
-         "id": "4",
-         "tittle": "Motor Mio Drag",
-         "date": "2021-09-27",
-         "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper-www.raina.id/Mod%20BUSSID%20Motor%20Mio%20Drag%20%28raina.id%29.zip",
-         "format_file":"zip",
-         "images": "https://1.bp.blogspot.com/-El_QWb0RENI/X8LVc5k7nxI/AAAAAAAAAdw/6NCKcbsgIMk_UdQXC_6OYGZrhaZvgIdkwCLcBGAsYHQ/s320/1.jpg"
-       },{
-         "id": "5",
-         "tittle": "Beat Mberrrrrr",
-         "date": "2021-09-27",
-         "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper-www.raina.id/MOD-BUSSID_HONDA_BEAT_RACING_BY_AZUMODS_BASSAMAZUPER%20www.raina.id.zip",
-         "format_file":"zip",
-         "images": "https://1.bp.blogspot.com/-fhgI6BziQsQ/X8LWqrARJoI/AAAAAAAAAec/JNWfuMhlS4ITtXMGif2_03xAcdgQvqL4ACLcBGAsYHQ/s320/7.jpg"
-       },
-       {
-         "id": "6",
-         "tittle": "Vespa Rumah",
-         "date": "2021-09-27",
-         "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper-www.raina.id/MOD%20BUSSID%20Motor%20Vespa%20Omah%20%28raina.id%29.zip",
-         "format_file":"zip",
-         "images": "https://1.bp.blogspot.com/-08KSHvC6ZoE/X8LVsxvgF0I/AAAAAAAAAd4/2wKZHgbr8AgKVdnyYCuGoTnyUDvj-qiuACLcBGAsYHQ/s320/2.jpg"
-       },
-       {
-         "id": "7",
-         "tittle": "Mod Honda CBR",
-         "date": "2021-09-27",
-         "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper-www.raina.id/MOD%20MOTOR%20CBR600RR%20BY%20BASSAMAZUPER_AZUMODS.zip",
-         "format_file":"zip",
-         "images": "https://1.bp.blogspot.com/-6UbNqaEOwbg/X8LW0mzeZoI/AAAAAAAAAek/jxaxG2ZxtY0RvWvwRgnMc7fGhERWvYHEQCLcBGAsYHQ/s320/8.jpg"
-       },
-       {
-         "id": "8",
-         "tittle": "Mod Motor Vario",
-         "date": "2021-09-27",
-         "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper-www.raina.id/MOD%20BUSSID%20Motor%20Honda%20Vario%20%28raina.id%29.zip",
-         "format_file":"zip",
-         "images": "https://1.bp.blogspot.com/-zGi6AI88B-A/X8LWIsdk9KI/AAAAAAAAAeE/iIjmDnJ3VuImOXaXgRhafTg6Q0VkWbbAACLcBGAsYHQ/s320/4.jpg"
-       },
-       {
-         "id": "9",
-         "tittle": "Mod Vario Knalpot MBERR",
-         "date": "2021-09-27",
-         "link_file": "https://archive.org/download/mod-vario-150-cc-knalpot-mberr-by-azumods/MOD%20VARIO%20150CC%20KNALPOT%20MBERR%20BY%20AZUMODS.zip",
-         "format_file":"zip",
-         "images": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2020/01/Vario-150CC-Motor-Mod-for-BUSSID-SGCArena.jpg"
-       },
-       {
-         "id": "10",
-         "tittle": "GOJEK R15",
-         "date": "2021-09-27",
-         "link_file": "https://archive.org/download/mod-gojek-motor-r-15_202101/MOD%20GOJEK%20MOTOR%20R15.zip",
-         "format_file":"zip",
-         "images": "https://emakgaming.com/wp-content/uploads/2020/06/Mod-BUSSID-MOTOR-R15-GOJEK.jpg"
-       },
-       {
-         "id": "11",
-         "tittle": "MOD Beat Baru",
-         "date": "2021-09-27",
-         "link_file": "https://archive.org/download/mod-honda-beat-2020-bussid-free-by-azumods_20201231/MOD%20HONDA%20BEAT%202020%20BUSSID%20FREE%20BY%20AZUMODS.zip",
-         "format_file":"zip",
-         "images": "https://1.bp.blogspot.com/-Cc_6sUI12Cg/Xpp06G0wQAI/AAAAAAAAC2k/x-CwOs7dc706RXQQ0zWkwjG5CX-R3bG-QCLcBGAsYHQ/s1600/Photo_200418094322.jpeg"
-       },
-       {
-         "id": "12",
-         "tittle": "MOD HAYABUSA 1300 CC",
-         "date": "2021-09-27",
-         "link_file": "https://archive.org/download/mod-hayabusa-1300-cc_202101/MOD%20HAYABUSA%201300CC%20.zip",
-         "format_file":"zip",
-         "images": "https://i.ytimg.com/vi/pv3I56O8eeU/hqdefault.jpg"
-       },
-       {
-         "id": "13",
-         "tittle": "MOD MOTOR NINJA H 2 R",
-         "date": "2021-09-27",
-         "link_file": "https://archive.org/download/mod-motor-ninja-h-2-r_202101/MOD%20MOTOR%20%20NINJA%20H2R.zip",
-         "format_file":"zip",
-         "images": "https://i.ytimg.com/vi/0FTi8UoG65U/maxresdefault.jpg"
-       },
-       {
-        "id": "14",
-        "tittle": "MOD MOTOR PCX",
-        "date": "2021-09-27",
-        "link_file": "https://archive.org/download/mod-honda-pcx-bussid-free-by-azumods/MOD%20HONDA%20PCX%20BUSSID%20FREE%20BY%20AZUMODS.zip",
+        "id": "3",
+        "tittle": "KTM Duke 150",
+        "date": "2021-10-5",
+        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper-www.raina.id/MOD%20BUSSID%20Motor%20KTM%20DUKE%20150%20%28raina.id%29.zip",
         "format_file":"zip",
-        "images": "https://i.ytimg.com/vi/qD_CWSnGgmU/hqdefault.jpg"
+        "images": "https://1.bp.blogspot.com/-rzf9ppsD_Lc/X8LWVQlG5WI/AAAAAAAAAeM/SXjT7Dbv-CAsLLrf92EaX4v9aBkZ9HzNQCLcBGAsYHQ/s320/5.jpg"
       },
       {
-        "id": "15",
-        "tittle": "MOD MOTOR NMAX 155cc",
-        "date": "2021-09-27",
-        "link_file": "https://archive.org/download/mod-nmax-155cc-bussid-free-by-azumods/MOD%20NMAX%20155cc%20BUSSID%20FREE%20BY%20AZUMODS.zip",
+        "id": "4",
+        "tittle": "Motor Mio Drag",
+        "date": "2021-10-5",
+        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper-www.raina.id/Mod%20BUSSID%20Motor%20Mio%20Drag%20%28raina.id%29.zip",
         "format_file":"zip",
-        "images": "https://i.ytimg.com/vi/TD37peMUtMs/mqdefault.jpg"
+        "images": "https://1.bp.blogspot.com/-El_QWb0RENI/X8LVc5k7nxI/AAAAAAAAAdw/6NCKcbsgIMk_UdQXC_6OYGZrhaZvgIdkwCLcBGAsYHQ/s320/1.jpg"
+      },{
+        "id": "5",
+        "tittle": "Beat Mberrrrrr",
+        "date": "2021-10-5",
+        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper-www.raina.id/MOD-BUSSID_HONDA_BEAT_RACING_BY_AZUMODS_BASSAMAZUPER%20www.raina.id.zip",
+        "format_file":"zip",
+        "images": "https://1.bp.blogspot.com/-fhgI6BziQsQ/X8LWqrARJoI/AAAAAAAAAec/JNWfuMhlS4ITtXMGif2_03xAcdgQvqL4ACLcBGAsYHQ/s320/7.jpg"
       },
       {
-        "id": "16",
-        "tittle": "MOD MOTOR AEROX 155CC V1 BISA WHEELIE ",
-        "date": "2021-09-27",
-        "link_file": "https://archive.org/download/mod-yamaha-aerox-155-cc-v-1-bisa-wheelie-bussid-free-by-azumods/MOD%20YAMAHA%20AEROX%20155CC%20V1%20BISA%20WHEELIE%20BUSSID%20FREE%20BY%20AZUMODS.zip",
+        "id": "6",
+        "tittle": "Vespa Rumah",
+        "date": "2021-10-5",
+        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper-www.raina.id/MOD%20BUSSID%20Motor%20Vespa%20Omah%20%28raina.id%29.zip",
         "format_file":"zip",
-        "images": "https://i.ytimg.com/vi/2hghHRzyLag/maxresdefault.jpg"
+        "images": "https://1.bp.blogspot.com/-08KSHvC6ZoE/X8LVsxvgF0I/AAAAAAAAAd4/2wKZHgbr8AgKVdnyYCuGoTnyUDvj-qiuACLcBGAsYHQ/s320/2.jpg"
       },
       {
-        "id": "17",
-        "tittle": "MOD MOTOR BEAT RACING",
-        "date": "2021-09-27",
-        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper_202109/MOD-BUSSID_HONDA_BEAT_RACING_BY_AZUMODS_BASSAMAZUPER.zip",
+        "id": "7",
+        "tittle": "Mod Honda CBR",
+        "date": "2021-10-5",
+        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper-www.raina.id/MOD%20MOTOR%20CBR600RR%20BY%20BASSAMAZUPER_AZUMODS.zip",
         "format_file":"zip",
-        "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OCr3ijp_8UHUlc8odRogol76VwlMiYw_9Q&usqp=CAU"
+        "images": "https://1.bp.blogspot.com/-6UbNqaEOwbg/X8LW0mzeZoI/AAAAAAAAAek/jxaxG2ZxtY0RvWvwRgnMc7fGhERWvYHEQCLcBGAsYHQ/s320/8.jpg"
       },
       {
-        "id": "18",
-        "tittle": "MOD MOTOR SATRIA FU",
-        "date": "2021-09-27",
-        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper_202109/MOD%20SATRIA%20FU%20BUSSID%20FREE%20BY%20AZUMODS.zip",
+        "id": "8",
+        "tittle": "Mod Motor Vario",
+        "date": "2021-10-5",
+        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper-www.raina.id/MOD%20BUSSID%20Motor%20Honda%20Vario%20%28raina.id%29.zip",
         "format_file":"zip",
-        "images": "https://i.ytimg.com/vi/elYUNvfBTc8/maxresdefault.jpg"
+        "images": "https://1.bp.blogspot.com/-zGi6AI88B-A/X8LWIsdk9KI/AAAAAAAAAeE/iIjmDnJ3VuImOXaXgRhafTg6Q0VkWbbAACLcBGAsYHQ/s320/4.jpg"
       },
       {
-        "id": "19",
-        "tittle": "MOD MOTOR MIO DRAG 200CC",
-        "date": "2021-09-27",
-        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper_202109/MOD%20MIO%20DRAG%20200CC%20BUSSID%20BY%20AZUMODS.zip",
+        "id": "9",
+        "tittle": "Mod Vario Knalpot MBERR",
+        "date": "2021-10-5",
+        "link_file": "https://archive.org/download/mod-vario-150-cc-knalpot-mberr-by-azumods/MOD%20VARIO%20150CC%20KNALPOT%20MBERR%20BY%20AZUMODS.zip",
         "format_file":"zip",
-        "images": "https://i.ytimg.com/vi/jSLq0Ck4KzA/maxresdefault.jpg"
+        "images": "https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2020/01/Vario-150CC-Motor-Mod-for-BUSSID-SGCArena.jpg"
       },
       {
-        "id": "20",
-        "tittle": "MOD MOTOR HARLEY",
-        "date": "2021-09-27",
-        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper_202109/Mod%20Bussid%20motor%20harley.zip",
+        "id": "10",
+        "tittle": "GOJEK R15",
+        "date": "2021-10-5",
+        "link_file": "https://archive.org/download/mod-gojek-motor-r-15_202101/MOD%20GOJEK%20MOTOR%20R15.zip",
         "format_file":"zip",
-        "images": "https://1.bp.blogspot.com/-z8P1CjCMrx0/X2WiJ8VObII/AAAAAAAAAsw/ysPykggfpJYUaXDg8SPqYy2xySBMKD1rgCLcBGAsYHQ/w250-h170-c/IMG_20200919_130716-picsay.png"
+        "images": "https://emakgaming.com/wp-content/uploads/2020/06/Mod-BUSSID-MOTOR-R15-GOJEK.jpg"
       },
       {
-        "id": "21",
-        "tittle": "Mod Ninja Drag",
-        "date": "2021-09-27",
-        "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper_202109/ninja%20drag.zip",
+        "id": "11",
+        "tittle": "MOD Beat Baru",
+        "date": "2021-10-5",
+        "link_file": "https://archive.org/download/mod-honda-beat-2020-bussid-free-by-azumods_20201231/MOD%20HONDA%20BEAT%202020%20BUSSID%20FREE%20BY%20AZUMODS.zip",
         "format_file":"zip",
-        "images": "https://i.ytimg.com/vi/dDeotz6G7Kg/maxresdefault.jpg"
-      }
-   ]
+        "images": "https://1.bp.blogspot.com/-Cc_6sUI12Cg/Xpp06G0wQAI/AAAAAAAAC2k/x-CwOs7dc706RXQQ0zWkwjG5CX-R3bG-QCLcBGAsYHQ/s1600/Photo_200418094322.jpeg"
+      },
+      {
+        "id": "12",
+        "tittle": "MOD HAYABUSA 1300 CC",
+        "date": "2021-10-5",
+        "link_file": "https://archive.org/download/mod-hayabusa-1300-cc_202101/MOD%20HAYABUSA%201300CC%20.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/pv3I56O8eeU/hqdefault.jpg"
+      },
+      {
+        "id": "13",
+        "tittle": "MOD MOTOR NINJA H 2 R",
+        "date": "2021-10-5",
+        "link_file": "https://archive.org/download/mod-motor-ninja-h-2-r_202101/MOD%20MOTOR%20%20NINJA%20H2R.zip",
+        "format_file":"zip",
+        "images": "https://i.ytimg.com/vi/0FTi8UoG65U/maxresdefault.jpg"
+      },
+      {
+       "id": "14",
+       "tittle": "MOD MOTOR PCX",
+       "date": "2021-10-5",
+       "link_file": "https://archive.org/download/mod-honda-pcx-bussid-free-by-azumods/MOD%20HONDA%20PCX%20BUSSID%20FREE%20BY%20AZUMODS.zip",
+       "format_file":"zip",
+       "images": "https://i.ytimg.com/vi/qD_CWSnGgmU/hqdefault.jpg"
+     },
+     {
+       "id": "15",
+       "tittle": "MOD MOTOR NMAX 155cc",
+       "date": "2021-10-5",
+       "link_file": "https://archive.org/download/mod-nmax-155cc-bussid-free-by-azumods/MOD%20NMAX%20155cc%20BUSSID%20FREE%20BY%20AZUMODS.zip",
+       "format_file":"zip",
+       "images": "https://i.ytimg.com/vi/TD37peMUtMs/mqdefault.jpg"
+     },
+     {
+       "id": "16",
+       "tittle": "MOD MOTOR AEROX 155CC V1 BISA WHEELIE ",
+       "date": "2021-10-5",
+       "link_file": "https://archive.org/download/mod-yamaha-aerox-155-cc-v-1-bisa-wheelie-bussid-free-by-azumods/MOD%20YAMAHA%20AEROX%20155CC%20V1%20BISA%20WHEELIE%20BUSSID%20FREE%20BY%20AZUMODS.zip",
+       "format_file":"zip",
+       "images": "https://i.ytimg.com/vi/2hghHRzyLag/maxresdefault.jpg"
+     },
+     {
+       "id": "17",
+       "tittle": "MOD MOTOR BEAT RACING",
+       "date": "2021-10-5",
+       "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper_202109/MOD-BUSSID_HONDA_BEAT_RACING_BY_AZUMODS_BASSAMAZUPER.zip",
+       "format_file":"zip",
+       "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OCr3ijp_8UHUlc8odRogol76VwlMiYw_9Q&usqp=CAU"
+     },
+     {
+       "id": "18",
+       "tittle": "MOD MOTOR SATRIA FU",
+       "date": "2021-10-5",
+       "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper_202109/MOD%20SATRIA%20FU%20BUSSID%20FREE%20BY%20AZUMODS.zip",
+       "format_file":"zip",
+       "images": "https://i.ytimg.com/vi/elYUNvfBTc8/maxresdefault.jpg"
+     },
+     {
+       "id": "19",
+       "tittle": "MOD MOTOR MIO DRAG 200CC",
+       "date": "2021-10-5",
+       "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper_202109/MOD%20MIO%20DRAG%20200CC%20BUSSID%20BY%20AZUMODS.zip",
+       "format_file":"zip",
+       "images": "https://i.ytimg.com/vi/jSLq0Ck4KzA/maxresdefault.jpg"
+     },
+     {
+       "id": "20",
+       "tittle": "MOD MOTOR HARLEY",
+       "date": "2021-10-5",
+       "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper_202109/Mod%20Bussid%20motor%20harley.zip",
+       "format_file":"zip",
+       "images": "https://1.bp.blogspot.com/-z8P1CjCMrx0/X2WiJ8VObII/AAAAAAAAAsw/ysPykggfpJYUaXDg8SPqYy2xySBMKD1rgCLcBGAsYHQ/w250-h170-c/IMG_20200919_130716-picsay.png"
+     },
+     {
+       "id": "21",
+       "tittle": "Mod Ninja Drag",
+       "date": "2021-10-5",
+       "link_file": "https://archive.org/download/mod-bussid-honda-beat-racing-by-azumods-bassamazuper_202109/ninja%20drag.zip",
+       "format_file":"zip",
+       "images": "https://i.ytimg.com/vi/dDeotz6G7Kg/maxresdefault.jpg"
+     }
+  ]
 }
